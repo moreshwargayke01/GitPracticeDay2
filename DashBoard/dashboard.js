@@ -1,1 +1,1 @@
-console.log("dashboard page loaded");
+console.log("adding checkout code");

@@ -1,1 +1,1 @@
-console.log("dashboard page");
+console.log("dashboard page loaded");
